@@ -1,0 +1,9 @@
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\bin\Debug\ListEditor.exe.config
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\bin\Debug\ListEditor.exe
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\bin\Debug\ListEditor.pdb
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Debug\ListEditor.csprojResolveAssemblyReference.cache
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Debug\ListEditor.Form1.resources
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Debug\ListEditor.Properties.Resources.resources
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Debug\ListEditor.csproj.GenerateResource.Cache
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Debug\ListEditor.exe
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Debug\ListEditor.pdb

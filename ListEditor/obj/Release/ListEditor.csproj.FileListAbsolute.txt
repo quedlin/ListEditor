@@ -1,0 +1,8 @@
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\bin\Release\ListEditor.exe.config
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\bin\Release\ListEditor.exe
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\bin\Release\ListEditor.pdb
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Release\ListEditor.Form1.resources
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Release\ListEditor.Properties.Resources.resources
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Release\ListEditor.csproj.GenerateResource.Cache
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Release\ListEditor.exe
+D:\Projects\visual studio 2010\Projects\ListEditor\ListEditor\obj\Release\ListEditor.pdb
